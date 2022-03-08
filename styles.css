@@ -1,0 +1,18 @@
+body{
+  margin: 10;
+}
+div.a {
+  text-align: left;
+}
+
+div.b {
+  text-align: center;
+}
+
+div.c {
+  text-align: right;
+} 
+
+img{
+  height: 300px;
+}
